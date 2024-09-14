@@ -1,4 +1,4 @@
-# Web Dev Starter Code
+# Module 4 Lab - Birdwatching
 
 ## Overview/Description
 
