@@ -1,24 +1,17 @@
 # Web Dev Starter Code
 
-## Overview
+## Overview/Description
 
-TODO: Write a project description
+This repository contains the CSS, HTML, and required images to create a similar website to the one provided in the assignment description. It contains a header, a navagation menu, a main content area with welcome text, an image sidebar and footer.
+
+## How to run
+
+- To run the website, simply clone the repo into the prefered IDE (recommend VSCode).
+- Once the repo is cloned, open it and press F1 and select the "Live Preview: Start Server" option.
+- This should open a viewable wesbite for review. Enjoy.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Fix for 2x2 grid of images: https://stackoverflow.com/questions/55174404/how-to-make-2x2-image-grid-css
+- General reminders and formating: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks
+- Color eyedropper tool to better replicate colors: https://imagecolorpicker.com
